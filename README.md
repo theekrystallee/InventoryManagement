@@ -26,7 +26,7 @@ go to edit configeration
 ```bash
 VM options
 --module-path
-[YOUR PATH]
+[PATH TO FX]
 --add-modules=javafx.base,javafx.fxml,javafx.graphics,javafx.media,javafx.web,javafx.controls
 ```
 
